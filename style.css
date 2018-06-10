@@ -1,5 +1,5 @@
 body {
-	background: url(pop.jpg);
+	background: url("pop.jpg");
 	background-size: cover;
 	background-position: center;
 	font-family: lato;

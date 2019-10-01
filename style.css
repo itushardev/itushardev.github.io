@@ -29,6 +29,11 @@ h1  {
 	border:2px solid #8f8f8f;
 }
 
+/*align button*/
+input[type="submit"] {
+	margin-top: 5%;
+	float: right;
+}
 
 
 .btn-default:hover {
